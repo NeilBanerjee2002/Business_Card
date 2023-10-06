@@ -1,6 +1,6 @@
 # business_card
 
-First Flutter project built after learning from Udemy course by Angela Yu.
+<br>First Flutter project built after learning from Udemy course by Angela Yu.<br>
 
 ## Getting Started
 
